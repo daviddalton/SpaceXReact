@@ -1,4 +1,4 @@
-import Launch from "../Model/Launch";
+import Launch from "../model/Launch.interface";
 import fetch from "./fetch";
 
 class LaunchData {
